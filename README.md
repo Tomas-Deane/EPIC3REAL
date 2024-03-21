@@ -1,2 +1,2 @@
-# EPIC3REAL
-heart attack prediction
+# Heart Disease Analysis
+ISE EPIC Block 3
