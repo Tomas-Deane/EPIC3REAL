@@ -1,0 +1,145 @@
+
+Random Forest Classification Report
+False Output Removed: 0.92
+              precision    recall  f1-score   support
+
+           0       0.78      0.70      0.74      4671
+           1       0.77      0.83      0.80      5483
+
+    accuracy                           0.77     10154
+   macro avg       0.77      0.77      0.77     10154
+weighted avg       0.77      0.77      0.77     10154
+
+
+Logistic Regression Report
+False Output Removed: 0.92
+              precision    recall  f1-score   support
+
+           0       0.75      0.71      0.73      4671
+           1       0.76      0.80      0.78      5483
+
+    accuracy                           0.76     10154
+   macro avg       0.76      0.75      0.76     10154
+weighted avg       0.76      0.76      0.76     10154
+
+
+Neural Network Report
+False Output Removed: 0.92
+              precision    recall  f1-score   support
+
+           0       0.73      0.76      0.74      4671
+           1       0.79      0.75      0.77      5483
+
+    accuracy                           0.76     10154
+   macro avg       0.76      0.76      0.76     10154
+weighted avg       0.76      0.76      0.76     10154
+
+
+Gradient Boosting Report
+False Output Removed: 0.92
+              precision    recall  f1-score   support
+
+           0       0.78      0.70      0.74      4671
+           1       0.77      0.83      0.80      5483
+
+    accuracy                           0.77     10154
+   macro avg       0.77      0.77      0.77     10154
+weighted avg       0.77      0.77      0.77     10154
+
+
+Random Forest Classification Report
+False Output Removed: 0.85
+              precision    recall  f1-score   support
+
+           0       0.80      0.79      0.79      8798
+           1       0.67      0.67      0.67      5450
+
+    accuracy                           0.75     14248
+   macro avg       0.73      0.73      0.73     14248
+weighted avg       0.75      0.75      0.75     14248
+
+
+Logistic Regression Report
+False Output Removed: 0.85
+              precision    recall  f1-score   support
+
+           0       0.78      0.83      0.81      8798
+           1       0.70      0.63      0.66      5450
+
+    accuracy                           0.75     14248
+   macro avg       0.74      0.73      0.74     14248
+weighted avg       0.75      0.75      0.75     14248
+
+
+Neural Network Report
+False Output Removed: 0.85
+              precision    recall  f1-score   support
+
+           0       0.79      0.83      0.81      8798
+           1       0.70      0.65      0.67      5450
+
+    accuracy                           0.76     14248
+   macro avg       0.75      0.74      0.74     14248
+weighted avg       0.76      0.76      0.76     14248
+
+
+Gradient Boosting Report
+False Output Removed: 0.85
+              precision    recall  f1-score   support
+
+           0       0.81      0.82      0.81      8798
+           1       0.70      0.69      0.69      5450
+
+    accuracy                           0.77     14248
+   macro avg       0.75      0.75      0.75     14248
+weighted avg       0.77      0.77      0.77     14248
+
+
+Random Forest Classification Report
+False Output Removed: 0.97
+              precision    recall  f1-score   support
+
+           0       0.70      0.50      0.58      1785
+           1       0.85      0.93      0.89      5445
+
+    accuracy                           0.82      7230
+   macro avg       0.77      0.72      0.74      7230
+weighted avg       0.81      0.82      0.81      7230
+
+
+Logistic Regression Report
+False Output Removed: 0.97
+              precision    recall  f1-score   support
+
+           0       0.74      0.45      0.56      1785
+           1       0.84      0.95      0.89      5445
+
+    accuracy                           0.83      7230
+   macro avg       0.79      0.70      0.73      7230
+weighted avg       0.82      0.83      0.81      7230
+
+
+Neural Network Report
+False Output Removed: 0.97
+              precision    recall  f1-score   support
+
+           0       0.75      0.50      0.60      1785
+           1       0.85      0.95      0.90      5445
+
+    accuracy                           0.84      7230
+   macro avg       0.80      0.72      0.75      7230
+weighted avg       0.83      0.84      0.82      7230
+
+
+Gradient Boosting Report
+False Output Removed: 0.97
+              precision    recall  f1-score   support
+
+           0       0.74      0.51      0.61      1785
+           1       0.85      0.94      0.90      5445
+
+    accuracy                           0.84      7230
+   macro avg       0.80      0.73      0.75      7230
+weighted avg       0.83      0.84      0.82      7230
+
+
